@@ -1,4 +1,4 @@
-# Catálogo de Livros - LEVI HENRIQUE SALES DA SILVA / 01706233
+# Catálogo de Livros - LEVI HENRIQUE SALES DA SILVA / 01706233 KAYNAN RAFAEL GUERRA DE FREITAS / 01702989 GABRIEL ARTUR SILVA DE SOUZA CANTO / 01707044
 
 Este projeto é uma aplicação de **Catálogo de Livros** desenvolvida como atividade prática para consolidar conceitos fundamentais do React (Hooks, Context API, Hooks Customizados) e **React Router DOM** para navegação em SPAs.
 
